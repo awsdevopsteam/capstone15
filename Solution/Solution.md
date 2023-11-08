@@ -347,6 +347,7 @@ Test your NAT instance:
 
 -  So you need to  to change `/<youname>/capstone/username`a and  `/<youname>/capstone/password` with your own parameter name. And also `Database endpoint`
 
+- before push check the requirement.txt . Pillow must be 8.4
 
 ===> PUSH YOUR CHANGES to github:
 - git add .
